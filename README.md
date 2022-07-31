@@ -1,1 +1,3 @@
-# test_Brightlab
+Запуск командой `npm start`
+
+Выполнил `Александр Белкин` `@abelkinmw`
